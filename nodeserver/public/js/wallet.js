@@ -8,7 +8,7 @@ let assetContract;
 let currentasset = 'ETH';
 
 const assetprice = 0.10875;
-const minValue = 0.05;
+const minValue = 0.03;
 
 const connectbtn = document.getElementById('connectbtn');
 const connectbtnheader = document.getElementById('connect-header');
