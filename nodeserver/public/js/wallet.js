@@ -375,7 +375,7 @@ async function connectWallet() {
         currentasset = optiontext;
 
         contract = new ethers.Contract(
-            "0x9f2db4a4aebeb5a238ca6e8a5ee796dc48c9148b",
+            "0x3B5af710DE7cE11C453533910a94358479067728",
             contractabi,
             signer
         );
